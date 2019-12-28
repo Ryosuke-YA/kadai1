@@ -6,3 +6,7 @@
  ・1 :　LEDを点灯（持続）
  
  ・2 :　LEDを点滅（1秒間隔）
+#LICENSE
+ GNU General Public License v3.0
+ #YouTube Demo
+ 
